@@ -1,2 +1,2 @@
-# LING611
+# Sapphirina
 Agreement attraction experiment (Ibex)
