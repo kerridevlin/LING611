@@ -87,7 +87,7 @@ var items = [
 ['shared-intro', Message, {consentRequired: false,
                    html: ["div",
                            ["p", "How was that? Just try and pick whichever word seems to fit better as the next word of the sentence.  "],
-                           ["p", "Many English speakers find 'are' to be a more natural completion. Let's try some more."]
+                           ["p", "Many English speakers find 'were' to be a more natural completion. Let's try some more."]
                          ]}],
 
 ['shared-intro', Separator, { transfer: 250, normalMessage: "", errorMessage: ""}, "EPDashedSentence", {s:"+"}, DS, {s:"The nervous employee",as: [['s','was'],['k','were']]}],
